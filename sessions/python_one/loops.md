@@ -73,7 +73,7 @@ Be aware that the range you specify always **excludes** the last number of you r
   ```python
   
   for a in range(1, 6):
-    print("This is the " + str(i) + ". iteration")
+    print("This is the " + str(a) + ". iteration")
   ```
 </details>
 
